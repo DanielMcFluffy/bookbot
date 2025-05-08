@@ -1,1 +1,3 @@
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+# Bookbot
+
+A simple book analyzer of characters from a book. Written in Python.
